@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Dockerfile" />
+  </Folder>
+  <Folder Name="/Src/">
+    <Project Path="Products.API/Products.API.csproj" />
+    <Project Path="Products.Application/Products.APPLICATION.csproj" />
+    <Project Path="Products.Domain/Products.DOMAIN.csproj" />
+    <Project Path="Products.INFRASTRUCTURE/Products.INFRASTRUCTURE.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Products.API.Tests/Products.API.Tests.csproj" Id="8fe6ed45-18c6-442d-be2f-508e3f21d0fd" />
+    <Project Path="Products.Application.Tests/Products.Application.Tests.csproj" Id="cca24aa4-d957-4400-9af4-8576453796ec" />
+  </Folder>
+</Solution>
